@@ -1,8 +1,13 @@
 {
-    "name": "chat room"
-    , "version": "0.0.1"
-    , "private": true
-    , "dependencies": {
-    "socket.io": "*"
+    "name": "chat_room",
+    "description": "chat room app",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "socket.io": "0.9.10"
+    },
+    "engines": {
+        "node": "0.8.4",
+        "npm": "1.1.49"
     }
 }
